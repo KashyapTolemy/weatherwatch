@@ -11,6 +11,14 @@ h1 {
   font-size: 4rem;
   font-family: "Montserrat", sans-serif;
 }
+#btn{
+    height: 2.5vw;
+    width: max-content;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
 .searchbox {
   height: 60vh;
   display: flex;
